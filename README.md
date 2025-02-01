@@ -18,7 +18,7 @@ Dataset 62 ribuan hadis dan 40 ribuan perawi dalam dwiaksara (Arab-Latin) dan dw
 | TOTAL | 62169 |
 
 
-Lihat anotasi hadis dengan terjemah, daftar perawi, premis, dan topik di [Anotasi Hadis](https://datamhs.mahadsiber.my.id/dashboard/#/nc/view/d5e2a3f2-8a7a-4c40-a9c3-2c0189c994dc)
+Lihat anotasi hadis dengan terjemah, daftar perawi, premis, dan topik di [Anotasi Hadis](https://datamhs.mahadsiber.my.id/dashboard/#/nc/view/19a13fcc-4dc5-46ef-a243-921e8bed8bed)
 
 ## Perawi
 
